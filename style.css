@@ -89,3 +89,33 @@ h1{
 .hero-part{
     margin-right: 20%;
 }
+.font-awesome{
+    text-align: left;
+}
+.hero-part-2{
+    margin-left: 8%;
+}
+footer{
+    background-color: black;
+    color: white;
+    margin-bottom: 0;
+}
+footer p{
+    text-align: center;
+}
+.code-pic-1{
+    width: 120%;
+}
+p{
+    width: 100%;
+    text-align: center;
+}
+.flexible-shape{
+    display: flex;
+    padding:30px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+   
+}
