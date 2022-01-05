@@ -57,20 +57,23 @@ h1{
 }
 .space1{
     padding-right: 20px;
-    background-color: aqua;
+    background-color: rgba(13, 198, 198, 0.586);
     margin-right: 20px;
     border-radius: 25px;
+    padding: 30px;
 }
 .space2{
     padding-right: 20px;
-    background-color:red;
+    background-color:rgba(255, 127, 80, 0.6);
     margin-right: 20px;
     border-radius: 25px;
+    padding: 30px;
 }
 .space3{
     padding-right: 20px;
-    background-color:green;
+    background-color:rgba(95, 158, 160, 0.614);
     border-radius: 25px;
+    padding: 30px;
 }
 .size{
     width:40%;
@@ -78,4 +81,11 @@ h1{
 }
 .font{
     text-align: left;
+}
+.code-pic{
+    width: 60%;
+    margin-left: 20%;
+}
+.hero-part{
+    margin-right: 20%;
 }
