@@ -17,7 +17,7 @@ body{
 .hyper{
     font-size: 60px;
     border-left: 5px solid goldenrod;
-    padding-left: 12px;
+    padding-left: 2px;
     border-radius: 2px;
 }
 .change{
@@ -91,8 +91,12 @@ h1{
 .text{
     text-align: center;
     padding-top: 100px;
-    margin: 4%;
+    margin: 3%;
     margin-left: 12%;
+    background-color:rgba(255, 127, 80, 0.51);
+    border-radius: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 .hero-part{
     margin-right: 20%;
@@ -120,7 +124,8 @@ footer p{
     font-family: 'Tangerine', cursive;
 }
 .code-pic-1{
-    width: 155%;
+    width: 120%;
+    margin-left:30%;
 }
 .reserved{
     width: 100%;
@@ -128,8 +133,7 @@ footer p{
 }
 .flexible-shape{
     display: flex;
-    padding:30px;
-    background-image: url(images/shapes/shape-1.png);
+    padding:40px;
     background-repeat: no-repeat;
     background-position: center;
 }  
