@@ -40,6 +40,7 @@ a{
     width: 50%;
     padding-left: 25% ;
     margin-bottom: 20px;
+    margin-top: 50px;
 }
 h1{
     font-size: 50px;
@@ -57,14 +58,14 @@ h1{
 }
 .space1{
     padding-right: 20px;
-    background-color: rgba(13, 198, 198, 0.586);
+    background-color: rgba(13, 198, 198, 0.489);
     margin-right: 20px;
     border-radius: 25px;
     padding: 30px;
 }
 .space2{
     padding-right: 20px;
-    background-color:rgba(255, 127, 80, 0.6);
+    background-color:rgba(255, 127, 80, 0.51);
     margin-right: 20px;
     border-radius: 25px;
     padding: 30px;
@@ -85,6 +86,13 @@ h1{
 .code-pic{
     width: 60%;
     margin-left: 20%;
+    margin-top: 25px;
+}
+.text{
+    text-align: center;
+    padding-top: 100px;
+    margin: 4%;
+    margin-left: 12%;
 }
 .hero-part{
     margin-right: 20%;
@@ -99,14 +107,22 @@ footer{
     background-color: black;
     color: white;
     margin-bottom: 0;
+   
 }
 footer p{
     text-align: center;
 }
-.code-pic-1{
-    width: 120%;
+.target{
+    font-family: 'Imperial Script', cursive;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Tangerine', cursive;
 }
-p{
+.code-pic-1{
+    width: 155%;
+}
+.reserved{
     width: 100%;
     text-align: center;
 }
@@ -116,6 +132,5 @@ p{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: center;
-    
+}  
    
-}
